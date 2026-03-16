@@ -35,9 +35,9 @@ The purpose of this project is to practice creating dashboards and visualizing d
 
 ## Project Files
 - Excel dashboard file
-- 
+- https://github.com/mdarbaz4466/profit-and-sales-dashboard/blob/main/Profit%20and%20sales%20dashboard.png
 
   
   Dashboard preview
-- (https://github.com/mdarbaz4466/profit-and-sales-dashboard/blob/main/Profit%20and%20sales%20dashboard.png)
+- https://github.com/mdarbaz4466/profit-and-sales-dashboard/blob/main/Profit%20and%20sales%20dashboard.png
 
