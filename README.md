@@ -34,8 +34,9 @@ This project is a Sales Dashboard created using Microsoft Excel for practice. Th
 The purpose of this project is to practice creating dashboards and visualizing data using Excel.
 
 ## Project Files
-- Excel dashboard file.(https://github.com/mdarbaz4466/profit-and-sales-dashboard/blob/main/Profit%20and%20sales%20dashboard.png)
-- 
+- Excel dashboard file.
+- https://github.com/mdarbaz4466/profit-and-sales-dashboard/blob/main/Profit%20and%20sales%20dashboard.png
+
 
   
   Dashboard preview
